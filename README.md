@@ -1,6 +1,7 @@
 # Hurwitz-class-numbers
 SageMath code accompanying the paper "Sums of Hurwitz class numbers, CM modular forms, and primes of the form x^2+ny^2".
 The computation is used in the proof of Proposition 17 and Proposition 19.
+
 Let HmM be the sum of H(4n-t^2) where where t runs through integers congruent to m (mod M).
 The generating function for these sums can be completed to a quasimodular form of weight 2.
 By twisting with the principal character chi_{M,0}, we obtain a holomorphic modular form.
