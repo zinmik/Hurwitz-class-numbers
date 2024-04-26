@@ -10,4 +10,4 @@ We check that this modular form is equal to a certain linear combination of func
 of the form D|S_{M,m}, where D(tau) := sum sigma(n)*q^n and S_{M,m} is the sieving operator
 and functions Psi_k(chi, tau) = sum (sum_{x^2+ky^2=n}chi(x)x)q^n.
 
-For each m, the computation runs in a separate cell.
+For each m, the computation runs in a separate cell of the Jupyter Notebook.
